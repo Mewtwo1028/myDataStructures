@@ -1,15 +1,12 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Basadas_en_Nodos.linkedList;
 
 import Basadas_en_Nodos.Nodo;
 
 /**
  *
- * @author osmar Esta es conocida como lista simple, o lista enlazada (linked
- * list)
+ * @author osmar 
+ * Esta es conocida como lista simple, o lista enlazada (linked list)
  */
 public class linkedList {
 
